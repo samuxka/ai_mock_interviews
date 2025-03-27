@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="836b4e27-6346-4b72-ae2a-849f87dcba2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ai-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/adobe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/amazon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/hostinger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/pinterest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/quora.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/reddit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/spotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/telegram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/tiktok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/covers/yahoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tailwind.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tech.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/user-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/window.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/vapi.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2uuG4Abk337H6gY1qbToKtRpXrU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "D:/Estudo/smk_mock_interview_platform/eslint.config.mjs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "D:\\Estudo\\smk_mock_interview_platform\\node_modules\\eslint",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Estudo/smk_mock_interview_platform/src/main.ts",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "D:\\Estudo\\smk_mock_interview_platform\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Estudo\smk_mock_interview_platform\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Estudo\smk_mock_interview_platform\app" />
+      <recent name="D:\Estudo\smk_mock_interview_platform\app\(root)" />
+      <recent name="D:\Estudo\smk_mock_interview_platform" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="836b4e27-6346-4b72-ae2a-849f87dcba2c" name="Changes" comment="" />
+      <created>1743090852669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743090852669</updated>
+      <workItem from="1743090853523" duration="15100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
