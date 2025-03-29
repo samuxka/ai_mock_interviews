@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
-import { Mona_Sans } from "next/font/google";
+import { JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import {Toaster} from "@/components/ui/sonner";
 
-const monaSans = Mona_Sans({
-    variable: "--font-mona-sans",
+const jetBrainsMono = JetBrains_Mono({
     subsets: ["latin"]
 });
 
@@ -21,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body
-        className={`${monaSans.className} antialiased pattern`}
+        className={`${jetBrainsMono.className} antialiased pattern`}
       >
         {children}
 
