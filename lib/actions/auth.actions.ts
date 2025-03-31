@@ -9,9 +9,9 @@ export async function signUp(params: SignUpParams) {
     const { uid, name, email } = params
 
     try {
-        const useRecord = await db.collection('users').doc(uid).get()
+        const userRecord = await db.collection('users').doc(uid).get()
 
-        if (useRecord.exists) {
+        if (userRecord.exists) {
             return {
                 success: false,
                 message: 'User already exists. Please sign in instead.'

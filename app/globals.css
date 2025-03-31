@@ -161,7 +161,7 @@
 
 @layer components {
   .btn-call {
-    @apply inline-block px-7 py-3 font-bold text-sm leading-5 text-white transition-colors duration-150 bg-success-100 border border-transparent rounded-sm shadow-sm focus:outline-none focus:shadow-2xl active:bg-success-200 hover:bg-success-200 min-w-28 cursor-pointer items-center justify-center overflow-visible;
+    @apply inline-block px-7 py-3 font-bold text-sm leading-5 text-white transition-colors duration-150 bg-success-100 border border-transparent rounded-full shadow-sm focus:outline-none focus:shadow-2xl active:bg-success-200 hover:bg-success-200 min-w-28 cursor-pointer items-center justify-center overflow-visible;
 
     .span {
       @apply bg-success-100 h-[85%] w-[65%];
@@ -169,7 +169,7 @@
   }
 
   .btn-disconnect {
-    @apply inline-block px-7 py-3 text-sm font-bold leading-5 text-white transition-colors duration-150 bg-destructive-100 border border-transparent rounded-sm shadow-sm focus:outline-none focus:shadow-2xl active:bg-destructive-200 hover:bg-destructive-200 min-w-28;
+    @apply inline-block px-7 py-3 text-sm font-bold leading-5 text-white transition-colors duration-150 bg-destructive-100 border border-transparent rounded-full shadow-sm focus:outline-none focus:shadow-2xl active:bg-destructive-200 hover:bg-destructive-200 min-w-28;
   }
 
   .btn-upload {
@@ -222,10 +222,10 @@
     }
 
     .avatar {
-      @apply z-10 flex items-center justify-center blue-gradient rounded-sm size-[120px] relative;
+      @apply z-10 flex items-center justify-center blue-gradient rounded-full size-[120px] relative;
 
       .animate-speak {
-        @apply absolute inline-flex size-5/6 animate-ping rounded-sm bg-primary-200 opacity-75;
+        @apply absolute inline-flex size-5/6 animate-ping rounded-full bg-primary-200 opacity-75;
       }
     }
 
